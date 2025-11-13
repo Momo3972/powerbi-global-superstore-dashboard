@@ -22,7 +22,7 @@ Il permet d'analyser les performances commerciales d'une entreprise fictive à t
 ## Structure du repository
 
 ```
-📦 powerbi-global-superstore-dashboard
+powerbi-global-superstore-dashboard
  ┣ images
  │  ┣ dashboard_overview.png
  │  ┣ top10_countries.png
@@ -91,13 +91,13 @@ Marge (%) = DIVIDE([Total Profit], [Total Ventes])
 
 ---
 
-## Page “À propos” intégrée au dashboard  
+## Page "À propos" intégrée au dashboard  
 
 Contenu résumé :
 
 **Objectif du rapport :** analyser les ventes, identifer les meilleurs pays, comparer les catégories, suivre les indicateurs clés  
 **Données :** Global Superstore (2011–2014)
-**Auteur :** Mohamed Lamine OULD BOUYA – Ingénieur Data / Data Analyst 
+**Auteur :** Mohamed Lamine OULD BOUYA – Ingénieur Data / Data Analyst
 **Compétences mises en œuvre :** Modélisation en étoile, Power Query, DAX, UX Power BI, visualisations dynamiques
 
 ---
